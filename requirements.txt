@@ -1,0 +1,1 @@
+cocotb>=1.9   # tested with 2.1.0
